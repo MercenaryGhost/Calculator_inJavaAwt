@@ -1,4 +1,6 @@
 .idea/
 out/
 AWT.iml
-src/com/company/Main.java
+src/com/company/Main.class
+src/com/company/Border.class
+src/com/company/NestedLayout.class
