@@ -13,7 +13,7 @@ public class Main {
     }
     public static void main(String[] args) {
 	// write your code here
-        Calc c = new Calc();
+        //Calc c = new Calc();
     }
 }
 
